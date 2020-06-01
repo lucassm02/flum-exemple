@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "5eae52f8884526eb03c14d05beedded5",
+    "packages": [
+        {
+            "name": "lucassm02/flum",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lucassm02/flum.git",
+                "reference": "5527535358204d052b1740a6438b9bb42e6eafd1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lucassm02/flum/zipball/5527535358204d052b1740a6438b9bb42e6eafd1",
+                "reference": "5527535358204d052b1740a6438b9bb42e6eafd1",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Flum\\Validator\\": "src/Validators"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Lucas Santos",
+                    "email": "lucassm02@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Flum is a simple, fast and efficient file upload module for PHP",
+            "keywords": [
+                "file",
+                "manager",
+                "upload",
+                "validator"
+            ],
+            "time": "2020-05-31T22:26:51+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "lucassm02/flum": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}

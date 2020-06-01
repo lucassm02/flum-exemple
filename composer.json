@@ -1,0 +1,16 @@
+{
+  "name": "lucassm02/flum-exemple",
+  "description": "Development flum exemple",
+  "type": "project",
+  "require": {
+    "lucassm02/flum": "dev-master"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lucas Santos",
+      "email": "lucassm02@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
